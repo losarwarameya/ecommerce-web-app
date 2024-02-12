@@ -1,5 +1,3 @@
-import React from "react";
-
 const Navbar = () => {
   return (
     <div className="sticky bg-slate-600 w-full text-white py-3 px-5 flex justify-between items-center text-xl">
@@ -9,7 +7,7 @@ const Navbar = () => {
         <a href="/">Home</a>
       </div>
       <div className="flex justify-center items-center gap-5">
-        <a href="/">Products</a>
+        <a href="/">Shop</a>
         <a href="/">Orders</a>
         <a href="/">Cart</a>
         <a href="/">Profile</a>
